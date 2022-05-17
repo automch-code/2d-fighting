@@ -1,0 +1,6 @@
+✓    Project Setup
+     Create Player and Enemy (8:25)
+     Move Charaters wit Event listener
+     Attacks
+     Health Bar Interface
+     Game Timers and Game Over
